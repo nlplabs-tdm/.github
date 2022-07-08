@@ -1,2 +1,1 @@
-# .github
-Twitter Data Management Platform
+# Twitter Data Management Platform
